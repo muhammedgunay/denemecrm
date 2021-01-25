@@ -72,6 +72,11 @@ $route["login/(.*)"]="login/$1";
 $route["users"]="users/index";
 $route["users/(.*)"]="users/$1";
 
+$route["Ajaxsearch"]="Ajaxsearch/index";
+$route["Ajaxsearch/(.*)"]="Ajaxsearch/$1";
+
+
+
 
 $route["logout"]="login/logout";
 

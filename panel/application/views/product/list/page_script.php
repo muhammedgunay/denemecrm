@@ -1,5 +1,6 @@
 <script src="<?php echo base_url("assets"); ?>/dist/js/third_party/bootstrap-toggle.min.js"></script>
 
+
 <script>
 
     $(document).ready(function () {
@@ -20,8 +21,11 @@
 
         })
 
-      
+
 
     })
+
+
+
 
 </script>
